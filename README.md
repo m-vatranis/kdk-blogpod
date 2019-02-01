@@ -1,1 +1,1 @@
-Websie project for KDK blog and podcast.
+Website project for KDK blog and podcast.
