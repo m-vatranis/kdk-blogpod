@@ -14,3 +14,16 @@
 img {
     padding-bottom: 5px;
 }
+
+.navbar .socials li {
+    display: inline-block;
+    line-height: 60px;
+    font-size: 18px;
+    padding: 0 5px;
+}
+.navbar .socials li a {
+    color: #555;
+}
+.navbar .socials li a:hover{
+    color: #fff;
+}
